@@ -177,6 +177,17 @@ Configure nginx
     sudo systemctl reload nginx
   </code>
 </pre>
+### create folder 
+<pre>
+  <code id="example-code">
+    sudo mkdir -p /var/www
+  </code>
+</pre>
+<pre>
+  <code id="example-code">
+    ls -l /var/www
+  </code>
+</pre>
 ### STEP 7
 Install Project & Setup
 <pre>
